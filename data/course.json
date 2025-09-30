@@ -1,0 +1,40 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "dd8c813e-5ca8-405b-a902-f0f246fc6b3a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c81d5b3e-c59e-447f-9071-becec98ea627",
+    "website": "topics-in-analysis-notes"
+  },
+  "course_title": "Topics in Fourier Analysis ",
+  "hide_download": true,
+  "course_description": "The goal of these lectures is to provide an introduction to Fourier analysis. The first topic is Fourier series, in particular, the Gibbs phenomenon and the dependence of their convergence properties on the suitability method used. The second topic is the Fourier transform, first the *L*\u00b9 theory and then, using Hermite functions, the *L*\u00b2 theory. The third topic is L. Schwartz's theory of tempered distributions. The fourth topic is the theory of weak convergence of probability measures and application to a derivation of the L\u00e9vy-Khinchine formula for the Fourier transform of infinitely divisible probability measures. The final topic is the elementary theory of singular integral operators, starting with the Hilbert transform and then using the method of rations to prove the *L*\u1d56 boundedness of even Calder\u00f2n-Zygmund kernels.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.18-015",
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Open Textbooks",
+    "Lecture Notes"
+  ],
+  "site_uid": "eab4b72b-a0dd-431d-bb38-3d69cd7b41bc",
+  "site_short_id": "res.18-015-spring-2024",
+  "site_url_path": "courses/res-18-015-topics-in-fourier-analysis-spring-2024"
+}
